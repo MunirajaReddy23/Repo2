@@ -1,0 +1,15 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 5ECD-016D
+
+ Directory of E:\MyNewFolder
+
+26-01-2020  23:14    <DIR>          .
+26-01-2020  23:14    <DIR>          ..
+26-01-2020  21:52                14 abc.txt
+26-01-2020  23:14                 0 hello.txt
+26-01-2020  22:54    <DIR>          java files
+26-01-2020  22:46                34 newfile.html
+26-01-2020  23:01                20 text1.txt
+26-01-2020  22:54                21 welcomefile.txt
+               5 File(s)             89 bytes
+               3 Dir(s)  163,487,215,616 bytes free
